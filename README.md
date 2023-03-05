@@ -16,6 +16,12 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 
 > See [this issue](https://github.com/react-native-community/react-native-camera/issues/3000) for more details.
 ### branch1_3
+<<<<<<< HEAD
 ### new commit 1
 ### new commit 1
 ### new commit 3
+=======
+### new commit 2_1
+### new commit 2_2
+### new commit 2_3
+>>>>>>> ea5eb05984db55aeadcb0a359729c663e7c59a07
